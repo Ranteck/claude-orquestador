@@ -1,0 +1,15 @@
+{
+  "name": "claude-orquestador",
+  "description": "Marketplace del plugin orquestar: Opus orquesta y reparte el trabajo en subagentes baratos (Haiku y Sonnet).",
+  "owner": {
+    "name": "Denis Hugo Perafan",
+    "url": "https://github.com/Ranteck"
+  },
+  "plugins": [
+    {
+      "name": "orquestar",
+      "source": "./",
+      "description": "Opus orquesta y reparte el trabajo en subagentes baratos (Haiku y Sonnet) para gastar menos tokens en Claude Code."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "orquestar",
+  "version": "0.1.0",
+  "description": "Opus orquesta y reparte el trabajo en subagentes baratos (Haiku y Sonnet) para gastar menos tokens en Claude Code.",
+  "author": {
+    "name": "Denis Hugo Perafan",
+    "url": "https://github.com/Ranteck"
+  },
+  "homepage": "https://github.com/Ranteck/claude-orquestador",
+  "repository": "https://github.com/Ranteck/claude-orquestador",
+  "license": "MIT",
+  "keywords": ["subagentes", "orquestacion", "tokens", "haiku", "sonnet"]
+}
